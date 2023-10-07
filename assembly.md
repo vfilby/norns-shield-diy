@@ -54,7 +54,6 @@ Position the encoders.  These ones are easier to solder because the ground lugs 
 Solder the strip header to the OLED display.  Tack one pin, check alignment then solder the rest.
 
 ![Step 7: Position display header](https://github.com/vfilby/norns-shield-diy/blob/main/photos/IMG_2999.jpeg?raw=true)
-![Step 7: solder display header](https://github.com/vfilby/norns-shield-diy/blob/main/photos/IMG_3015.jpeg?raw=true)
 
 ### Step 8
 
